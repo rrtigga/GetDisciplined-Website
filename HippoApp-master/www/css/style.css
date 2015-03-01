@@ -1,0 +1,87 @@
+/* Empty. Add your own CSS if you like */
+.card {
+	display: block;
+}
+
+.cardMainImage {
+	display: block;
+}
+
+.cardTitle {
+	display: block;
+}
+
+.cardTitleIcon {
+	height: 100px;
+	width:  100px;
+	display: inline;
+	float: 	left;
+	margin:	10px;
+	border: 2px;
+	border-color: gray;
+	border-style: solid;
+}
+
+.dietaryLifeStyle {
+	display: inline;
+	margin-right: 10px;
+	color: gray;
+}
+
+.cardBuyInfo {
+	clear: both;
+}
+
+.cardPrice {
+	margin-left: 20px;
+	/*margin-right: 20px;*/
+	margin-top: 15px;
+	display: inline;
+	float: left
+}
+
+.cardIncrement {
+	display: inline;
+	float: left;
+}
+
+.cardQuantity {
+	font-size: 30px;
+}
+
+#checkoutBar {
+	position: fixed;
+	bottom: 0px;
+}
+
+#checkoutBarImg {
+	width: 100%;
+}
+
+.tableElt {
+	padding: 10px;
+}
+
+.bottombutton {
+    position:relative;
+    left: 50%;
+    margin-top:90%;
+    }
+
+
+.profileContents {
+  border-radius: 50%;
+  display: block;
+  position: fixed;  /*or absolute*/
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  width: 10rem;
+  height: 10rem;
+  margin: 80px auto 1rem auto;
+  background-color: #F8F8F8;
+  text-align: center;
+  color: #ccc;
+  position: relative;
+  background-position: center center;
+  background-size: auto 100%;
+}
